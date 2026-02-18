@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(purp\ bg.jpg);
+    background-image: url("purpbg.jpg");
     background-size: cover;
     
 }
